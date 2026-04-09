@@ -21,4 +21,7 @@
 ##### NaN HEATMAP AFTER
 <img width="508" height="316" alt="image" src="https://github.com/user-attachments/assets/2880feca-e8b7-4df5-8fc8-e0f1a86072a7" />
 
+- **ცუდი განაწილების ცვლადების წაშლა**
+შემდეგ წავშალე ისეთი ცვლადები რომლებთა განაწილებაში ზედმეტად ჭარბობდა ერთი კონკრეტული ცვლადი(მაგ. Street ცვლადის 99%ზე მეტი Pav იყო). threshhold-ად ავიღე 90%.
+
 
